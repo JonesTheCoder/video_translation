@@ -1,2 +1,4 @@
 This is a tutorial created by AWS to transcribe a video's captions into different languages and dub them as well.
 
+
+tutorial link here: https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-translation-using-machine-learning/?&trk=em_a131L000005ON9mQAG&trkCampaign=pac_nl_ML_0818-translate&sc_channel=em&sc_campaign=namer_nl_pac_ML_201808&sc_medium=em_110878&sc_outcome=PaaS_Digital_Marketing&sc_geo=NAMER&sc_country=US&sc_content=AWS_Webpage&mkt_tok=eyJpIjoiWkRZNFpUTTJPVFF6WmpGayIsInQiOiJEbVdPYTdqZks3MlwvNlRmYzFPcjY2YWIyZUlmK2N1REg0M1hwNFo5eDdsUGE5TVhLZWdObklBRHZsUkJKM3MzbzdDYklzQnlya21YWCs3ZlJZTktzV2JHV05Ic3hqQXY0MjU4UlwvXC85alFMQUg3KzNaUmgrNWlWVVlwQ2NnbHR1RENtTDRrMHZiWGRraVwvdVdQeFFrZ3hBPT0ifQ%3D%3D
